@@ -1,7 +1,7 @@
 
 ### Hi there 👋, my name is Emiliano
 #### Welcome to my GitHub!!!
-![I am GitHub Readme Generator's creator](https://github.com/Emi-ms/Images/blob/main/banner.png)
+![I am GitHub Readme Generator's creator]([https://github.com/Emi-ms/Images/blob/main/banner.png](https://github.com/Emi-ms/Images/blob/main/Banner%20para%20twitch%20tecnol%C3%B3gico%20gaming%20ne%C3%B3n%20turquesa.png))
 
 
 Skills: VUE JS / REACT / JS / HTML / CSS
