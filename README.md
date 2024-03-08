@@ -4,7 +4,7 @@
 ![I am GitHub Readme Generator's creator](https://github.com/Emi-ms/Images/blob/main/BannerEmi.png)
 
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: SpringBoot / Angular / JS / Java / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
